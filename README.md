@@ -19,8 +19,9 @@ You can click the Preview link to take a look at your changes.
 <div align="right">
   <!-- 조회수 -->
 </div>
-<div align="left">
 ## 🌟 Skills
+<div align="left">
+
   <h4>Language</h4>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
