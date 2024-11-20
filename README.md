@@ -12,13 +12,13 @@ hyeriwon/hyeriwon is a ✨ special ✨ repository because its README.md (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <div align="center">
-  <!-- 타이틀 -->
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=FF7F50&text=Welcome%20to%20Hyeri's%20GitHub&fontSize=30&fontColor=FFFFFF"/>
+</div><br>
 <div align="right">
-  <!-- 조회수 -->
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeriwon&count_bg=%23333A42&title_bg=%236C7079&icon=github&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
+<br><br><Br><br>
 <div align="left">
   <h3>🌟 Skills</h3>
   <hr>
@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">  
     </div>
   <br><br>   
-  <h3>Stats</h3>
+  <h3>📋 Stats</h3>
   <hr>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=hyeriwon&theme=gotham&show_icons=true" alt="Hyeri's GitHub stats" width="48%">
