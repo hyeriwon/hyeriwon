@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <hr>
   <h4>Language</h4>
     <div>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
+      <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=OpenJDK&logoColor=white">  
     </div>
   <h4>FrameWork</h4>
     <div>
@@ -51,8 +51,12 @@ You can click the Preview link to take a look at your changes.
   <h3>Links</h3>
   <hr>
   <div>
-    <span>Blog</span>
-    <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-09B3AF?style=for-the-badge&logo=bloglovin&logoColor=white"></a>
+    <div>
+      <span>Blog</span>
+    </div>
+    <div>
+      <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-09B3AF?style=for-the-badge&logo=bloglovin&logoColor=white"></a>
+    </div>
   </div>
   <div>
     <span>Mail</span>
