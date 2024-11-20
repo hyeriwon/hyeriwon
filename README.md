@@ -48,17 +48,15 @@ You can click the Preview link to take a look at your changes.
     </div>
   <br><br>   
     
-  <h3>Blog</h3>
+  <h3>Links</h3>
   <hr>
   <div>
-   <!--  <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
+    <span>Blog</span>
     <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-09B3AF?style=for-the-badge&logo=bloglovin&logoColor=white"></a>
   </div>
-  <Br><br>
-  <h3>Mail</h3>
-  <hr>
   <div>
-    <a href="mailto:madagascar29023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=madagascar29023@gmail.com"/></a>  
+    <span>Mail</span>
+    <a href="mailto:madagascar29023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=madagascar29023@gmail.com"></a>
   </div>
 
 
