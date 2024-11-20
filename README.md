@@ -60,6 +60,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   <div>
       <h4>Blog</h4>
-      <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-09B3AF?style=for-the-badge&logo=bloglovin&logoColor=white"></a>
+      <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=storyblok&logoColor=white"></a>
   </div>
  
