@@ -36,14 +36,12 @@ You can click the Preview link to take a look at your changes.
   <h3>Blog</h3>
   <div>
    <!--  <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
-    <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-#41AD48?style=for-the-badge&logo=storyblok&logoColor=white"></a>
+    <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-#09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"></a>
   </div>
   <h3>Mail</h3>
   <div>
     <a href="mailto:madagascar29023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=madagascar29023@gmail.com"/></a>  
   </div>
-  
-</div>
      
      
     </div>
