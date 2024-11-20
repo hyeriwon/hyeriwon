@@ -49,8 +49,10 @@ You can click the Preview link to take a look at your changes.
   <br><br>   
   <h3>Stats</h3>
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeriwon&theme=gotham&show_icons=true" alt="Hyeri's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeriwon&layout=compact" alt="Top Langs">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hyeriwon&theme=gotham&show_icons=true" alt="Hyeri's GitHub stats" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeriwon&layout=compact&theme=gotham" alt="Top Langs" width="48%">
+  </div>
   <br><br> 
   <h3>🔗 Links</h3>
   <hr>
