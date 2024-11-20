@@ -42,10 +42,5 @@ You can click the Preview link to take a look at your changes.
   <div>
     <a href="mailto:madagascar29023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=madagascar29023@gmail.com"/></a>  
   </div>
-     
-     
-    </div>
-<!--방문자수--!>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
-      
+
 
