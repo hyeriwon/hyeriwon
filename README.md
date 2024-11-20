@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 <div align="right">
   <!-- 조회수 -->
 </div>
-## 🌟 Skills
 <div align="left">
-
+  <h3>🌟 Skills</h3>
+  <hr>
   <h4>Language</h4>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
@@ -49,6 +49,7 @@ You can click the Preview link to take a look at your changes.
      
     
   <h3>Blog</h3>
+  <hr>
   <div>
    <!--  <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
     <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-#09B3AF?style=for-the-badge&logo=bloglovin&logoColor=white"></a>
