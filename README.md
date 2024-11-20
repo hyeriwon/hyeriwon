@@ -51,16 +51,22 @@ You can click the Preview link to take a look at your changes.
   <h3>Links</h3>
   <hr>
   <div>
-    <div>
-      <span>Blog</span>
-    </div>
-    <div>
+      <h4>Blog</h4>
       <a href="https://blog.naver.com/00_cielo"><img src="https://img.shields.io/badge/NaverBlog-09B3AF?style=for-the-badge&logo=bloglovin&logoColor=white"></a>
-    </div>
   </div>
   <div>
-    <span>Mail</span>
+    <h4>Mail</h4>
     <a href="mailto:madagascar29023@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=madagascar29023@gmail.com"></a>
   </div>
+
+<style>
+  div {
+    display: flex;
+    gap: 10px;
+  }
+  img {
+    display: inline-block;
+  }
+</style>
 
 
