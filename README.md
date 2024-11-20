@@ -47,9 +47,9 @@ You can click the Preview link to take a look at your changes.
       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">  
     </div>
   <br><br>   
-  <h3>Status</h3>
+  <h3>Stats</h3>
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeriwon&theme=buefy&show_icons=true" alt="Hyeri's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeriwon&theme=gotham&show_icons=true" alt="Hyeri's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeriwon&layout=compact" alt="Top Langs">
   <br><br> 
   <h3>🔗 Links</h3>
