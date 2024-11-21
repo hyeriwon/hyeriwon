@@ -52,6 +52,12 @@ You can click the Preview link to take a look at your changes.
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hyeriwon&theme=gotham&show_icons=true" alt="Hyeri's GitHub stats" width="48%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeriwon&layout=compact&theme=gotham" alt="Top Langs" width="43%">
+  </div><br>
+  <div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://solved.ac/madagascar23/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=madagascar23" alt="Solved.ac Profile Badge" width="430">
+    </a>
   </div>
   <br><br> 
   <h3>🔗 Links</h3>
