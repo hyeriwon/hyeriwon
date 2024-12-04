@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
   <div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://solved.ac/madagascar23/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=madagascar23" alt="Solved.ac Profile Badge" width="430">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=madagascar23" alt="Solved.ac Profile Badge" width="410">
     </a>
   </div>
   <br><br> 
